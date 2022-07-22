@@ -20,7 +20,7 @@ Here's how to set up this project locally on your machine.
 
 ### Installation
 
-1. Clone the repository
+1. Clone the (main) repository
    sh
    git clone https://github.com/AtanMegis/CapstoneMegis.git
 
