@@ -1,0 +1,32 @@
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 2rem 5rem;
+	gap: 3rem;
+	justify-content: space-between;
+}
+
+.font-title {
+	padding: 2rem 5rem;
+}
+
+p {
+	line-height: 1.5rem;
+}
+
+h3 {
+	padding-bottom: 15px;
+}
+
+h1 {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+hr {
+	padding-bottom: 20px;
+	border-top: 2.5px solid #00525f;
+	border-bottom: 0px;
+	border-left: 0px;
+	border-right: 0px;
+}

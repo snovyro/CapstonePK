@@ -1,0 +1,35 @@
+.header {
+	background-color: #00525f;
+	width: 100%;
+	margin: auto;
+	height: 120px;
+	display: flex;
+	justify-content: space-between;
+	padding-top: 2rem;
+	padding-right: 5rem;
+	padding-left: 5rem;
+	position: fixed;
+	z-index: 1000;
+}
+
+.navbar {
+	display: flex;
+}
+
+.navbar_list .navbar_item {
+	display: inline-block;
+}
+
+.navbar_list .navbar_item a {
+	text-decoration: none;
+	padding: 1rem;
+	padding-right: 2rem;
+	color: #fff;
+	font-weight: 700;
+	display: flex;
+}
+
+.navbar_list .navbar_item a:hover {
+	text-decoration: none;
+	color: #fc6500;
+}

@@ -1,0 +1,54 @@
+.wrapper {
+	display: block;
+	padding: 2rem 15rem;
+}
+
+.content-main {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2rem;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.img-container {
+	height: 100%;
+	display: inline-flex;
+	gap: 1rem;
+	object-fit: cover;
+}
+
+.new-paragraph {
+	display: flex;
+	flex: wrap;
+	padding: 3rem 0;
+	height: fit-content;
+}
+
+.last-paragraph {
+	display: flex;
+}
+
+p {
+	font-size: 18px;
+	line-height: 2rem;
+}
+
+h3 {
+	padding-bottom: 15px;
+	font-size: 30px;
+}
+
+h1 {
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 35px;
+}
+
+hr {
+	padding-bottom: 20px;
+	border-top: 2.5px solid #00525f;
+	border-bottom: 0px;
+	border-left: 0px;
+	border-right: 0px;
+}
